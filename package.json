@@ -2,7 +2,7 @@
   "name": "monsters-roldex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Ahmed-ELking/monesters-rolodex",
+  "homepage": "https://Ahmed-ELking.github.io/monesters-rolodex",
   "dependencies": {
     "cra-template": "1.2.0",
     "gh-pages": "^4.0.0",
